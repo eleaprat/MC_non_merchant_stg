@@ -1,5 +1,3 @@
-using JuMP
-
 function market_clearing_all(T, L, G, U, D, C, P, E, E_init, E_end, S_end, nb_t, ∆t)
 
     # Model

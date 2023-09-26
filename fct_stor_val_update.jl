@@ -1,6 +1,3 @@
-using JuMP
-using HiGHS
-
 function stor_update_changes(p_D_inter, T, V, S, E_init)
     
     # Update value of storage with the changes from the market clearing

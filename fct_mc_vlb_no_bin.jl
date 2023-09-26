@@ -1,5 +1,3 @@
-using JuMP
-
 function mc_VLB_no_bin(∆t, T, T_dis, L, G, V, U, D, C, P, S, E, E_init, E_end)
 
     # Model
